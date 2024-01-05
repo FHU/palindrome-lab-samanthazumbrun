@@ -1,6 +1,6 @@
 # palindrome_lab_template
 
-A palindrom is a word with the same letters forward as backwards. 
+A palindrome is a word with the same letters forward as backwards. 
 
 Examples of palindromes:
 kayak
