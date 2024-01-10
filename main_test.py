@@ -1,5 +1,5 @@
-from main import palindrome
+import main
 
-def test_palindrome():
+def test_main():
     word = "kayak"
-    assert palindrome(word) == True
+    assert main.palindrome(word) == True
