@@ -1,4 +1,5 @@
-import main
+from main import palindrome
 
-def test_main():
-    assert main.message() == "Hello World"
+def test_palindrome():
+    word = "kayak"
+    assert palindrome(word) == True
