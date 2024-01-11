@@ -9,8 +9,9 @@ racecar
 
 In this lab:
 1. Ask the user for input text
-2. Determine if the text is a palindrome.
-3. If the text is a palindrome, print "Palindrome" else print "Not a Palindrome"
+2. Complete the function palindrome() to determine if the text is a palindrome.
+3. If the text is a palindrome, return True else return False.
+4. Outside the function, if the word is a palindrom print "Palindrome", else print "Not a Palindrome"
 
 Notes
 1. An empty string is not a palindrome
