@@ -3,7 +3,8 @@ def palindrome(word):
     pass
 
 #Solution
-'''def palindrome(word):
+'''#Your code goes here
+def palindrome(word):
     #result = True
     last_index = -1
     
