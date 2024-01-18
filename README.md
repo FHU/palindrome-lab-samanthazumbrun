@@ -2,9 +2,9 @@
 
 A palindrome is a word with the same letters forward as backwards. 
 
-Examples of palindromes:
-kayak
-Hannah
+Examples of palindromes:  
+kayak  
+Hannah  
 racecar
 
 In this lab:
