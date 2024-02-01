@@ -1,4 +1,6 @@
 # palindrome_lab_template
+Palindrome Lab  
+This is an independent lab. Code and solutions must not be shared among classmates. You may ask me questions.
 
 A palindrome is a word with the same letters forward as backwards. 
 
