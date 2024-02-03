@@ -1,10 +1,11 @@
 
 def palindrome(user_word):
-    if user_word == user_word[::-1]:
+    word = user_word.strip().lower()
+    if word == word[::-1]:
         print('True')
     else:
         print('False')
 
 
-user_word = input().strip().lower()
+user_word = input()
 palindrome(user_word)
