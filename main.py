@@ -9,3 +9,4 @@ def palindrome(user_word):
 
 user_word = input()
 palindrome(user_word)
+#test
