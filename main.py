@@ -8,6 +8,3 @@ def palindrome(word):
         return False
 
 
-word = input()
-print(palindrome(word))
-#test
