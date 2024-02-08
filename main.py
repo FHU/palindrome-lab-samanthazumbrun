@@ -10,3 +10,4 @@ def palindrome(word):
 
 word = input()
 print(palindrome(word))
+#test
